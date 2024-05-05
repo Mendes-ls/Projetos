@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(70,142,236);
+    font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+
+}
+section{
+background:white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.404);
+}
+input#btn{
+    border-radius: 50px;
+}
+input#num{
+    font-family: frartur;
+    font-weight: bold;
+    font-size: large;
+    width: 30px;
+}
+select{
+    width:100%;
+  
+    
+}
+option{
+  
+    margin-left:40%;
+    margin-top: -2px;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: frartur;
+    
+}
+footer{
+color: white;
+text-align: center;
+font-style: italic;
+}
